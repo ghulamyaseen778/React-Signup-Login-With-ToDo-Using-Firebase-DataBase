@@ -1,0 +1,13 @@
+.center-ToDo{
+    width: 100vw;
+}
+
+.ToDoShow{
+    width: 70vw;
+}
+
+@media screen and (max-width: 500px) { 
+    .ToDoShow{
+        width: 90vw; 
+    }
+ }
